@@ -1,12 +1,12 @@
 body {
     background-image: url("https://www.pixelstalk.net/wp-content/uploads/images1/Free-Dark-Space-Black-Photos-620x349.jpg");
     display: flex;
+    flex-direction: column;
     margin: auto;
     justify-content: center;
 }
 
 ul {
-    background-color: #25539B;
     color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
     display: flex;
